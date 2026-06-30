@@ -1,75 +1,64 @@
-<h1 align="center">Hi there, I'm Muhammad Sufyan 👋</h1>
-<p align="center">
-  <em>A passionate Full-Stack Web Developer from Pakistan</em>
-</p>
+<div align="center">
 
-<!-- Optional Banner Section -->
-<p align="center">
-  <img src="https://raw.githubusercontent.com/your-username/your-repo/main/banner.gif" alt="Coding Animation" width="100%" style="border-radius: 8px;">
-</p>
+# Hi, I'm Muhammad Sufyan 👋
+### Full-Stack Developer | BS Computer Science
+
+*[Explore my work below]*
 
 ---
 
+</div>
+
 ## 👨‍💻 About Me
 
-I'm a dedicated developer with a passion for crafting clean, efficient, and user-friendly web applications. I enjoy taking on challenges and turning ideas into reality through code.
+I specialize in crafting high-performance, user-centric web applications. My focus is on writing clean code and building scalable systems.
 
-*   🔭 I’m currently working on: **StudyMate**, a platform to enhance learning.
-*   🌱 I’m currently doing: **BS Computer Science**.
-*   👯 I’m looking to collaborate on: Open-source projects and innovative web apps.
-*   💬 Ask me about: **HTML, CSS, JavaScript, PHP, Laravel, MySQL, Bootstrap 5, Next.js, and React**.
-*   📫 How to reach me: **sufyanjura47@gmail.com**
+*   🔭 **Current Project:** Building **[StudyMate](https://github.com/MuhammadSufyanJura47/studymate-2.0)**, an enhanced learning ecosystem.
+*   👯 **Collaborations:** Open to innovative open-source and civic-tech projects.
+*   💬 **Tech Stack:** JavaScript (React/Next.js), PHP (Laravel), MySQL, & UI/UX design.
+*   📫 **Contact:** [sufyanjura47@gmail.com](mailto:sufyanjura47@gmail.com)
 
 ---
 
 ## 🛠️ Tech Stack
 
-<p align="center">
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML5"/>
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" alt="CSS3"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript"/>
-  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript"/>
-  <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" alt="React"/>
-  <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white" alt="Next.js"/>
-  <img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white" alt="PHP"/>
-  <img src="https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white" alt="Laravel"/>
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" alt="MySQL"/>
-</p>
+<div align="center">
+
+| Frontend | Backend | Tools |
+| :--- | :--- | :--- |
+| React, Next.js | PHP, Laravel | Git, Docker |
+| HTML5, CSS3 | MySQL | VS Code |
+| Tailwind, Bootstrap | REST APIs | Figma |
+
+</div>
 
 ---
 
-## 📊 GitHub Stats
+## 📊 Performance Insights
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MuhammadSufyanJura47&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MuhammadSufyanJura47&theme=radical&hide_border=true" alt="GitHub Streak" width="48%" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MuhammadSufyanJura47&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
-</p>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=MuhammadSufyanJura47&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MuhammadSufyanJura47&theme=tokyonight&hide_border=true" width="48%" />
+</div>
 
 ---
 
 ## ✨ Featured Projects
 
-*   **[StudyMate](https://github.com/MuhammadSufyanJura47/studymate-2.0)**: A modern learning platform built with TypeScript and Next.js.
-*   **[Pindi Ki Awaaz](https://github.com/MuhammadSufyanJura47/pindi-ki-awaaz-2.0)**: A community-focused project showcasing local news and events.
-*   **[Sufyan CV Maker](https://github.com/MuhammadSufyanJura47/Sufyan-CV-Maker)**: A tool to create professional CVs effortlessly.
+*   **[StudyMate](https://github.com/MuhammadSufyanJura47/studymate-2.0)** | *Modern Next.js Learning Platform*
+*   **[Pindi Ki Awaaz](https://github.com/MuhammadSufyanJura47/pindi-ki-awaaz-2.0)** | *Civic Intelligence Tool*
+*   **[Sufyan CV Maker](https://github.com/MuhammadSufyanJura47/Sufyan-CV-Maker)** | *Automated Portfolio Tool*
 
 ---
 
-## 🤝 Connect with Me
+<div align="center">
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/muhammadsufyanjura47/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-  <a href="https://github.com/MuhammadSufyanJura47"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
-  <a href="mailto:sufyanjura47@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>
-  <a href="https://muhammadsufyanjura.tech/"><img src="https://img.shields.io/badge/Portfolio-6c63ff?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/></a>
-</p>
+### Let's Build Something Together
+[LinkedIn](https://www.linkedin.com/in/muhammadsufyanjura47/) • [Portfolio](https://muhammadsufyanjura.tech/) • [GitHub](https://github.com/MuhammadSufyanJura47)
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=MuhammadSufyanJura47&label=Profile%20Views&color=6c63ff&style=flat-square" alt="Visitor Count" />
-</p>
+<br>
 
-<p align="center"><em>Thanks for visiting! Have a great day! 😊</em></p>
+<img src="https://komarev.com/ghpvc/?username=MuhammadSufyanJura47&label=Visitors&color=0e75b6&style=flat" />
+<p><em>Have a great day! 😊</em></p>
+
+</div>
