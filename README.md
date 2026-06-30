@@ -99,9 +99,7 @@
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=MuhammadSufyanJura47&theme=tokyonight&hide_border=true&background=ffffff10&stroke=6C63FF&ring=6C63FF&fire=6C63FF&currStreakLabel=6C63FF" alt="GitHub Streak" width="48%" />
   </p>
 
-  <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MuhammadSufyanJura47&layout=compact&theme=tokyonight&hide_border=true&bg_color=ffffff10&title_color=6C63FF&text_color=a0a0b0" alt="Top Languages" />
-  </p>
+  
 
 </div>
 
