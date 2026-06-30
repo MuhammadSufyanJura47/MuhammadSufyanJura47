@@ -1,6 +1,6 @@
 <!-- Header / Hero Section -->
 <h1 align="center">Hi there, I'm Muhammad Sufyan 👋</h1>
-<h3 align="center">A passionate Full-Stack Developer from Pakistan</h3>
+<h3 align="center">A passionate Full-Stack Web Developer from Pakistan</h3>
 
 <!-- Animated Banner or GIF (Optional but highly recommended) -->
 <!-- Replace the URL below with a relevant coding GIF -->
@@ -14,11 +14,10 @@
 I'm a dedicated developer with a passion for crafting clean, efficient, and user-friendly web applications. I enjoy taking on challenges and turning ideas into reality through code.
 
 *   🔭 I’m currently working on: **StudyMate**, a platform to enhance learning.
-*   🌱 I’m currently learning: **TypeScript** and **Next.js**.
+*   🌱 I’m currently doing: **BS Computer Science**.
 *   👯 I’m looking to collaborate on: Open-source projects and innovative web apps.
-*   💬 Ask me about: **HTML, CSS, JavaScript, and React**.
+*   💬 Ask me about: **HTML, CSS, JavaScript, PHP, Laravel, MySQL, BootStrap5, Next.js and React**.
 *   📫 How to reach me: **sufyanjura47@gmail.com** (Replace with your email).
-*   ⚡ Fun fact: I love solving puzzles and playing strategy games.
 
 <!-- Skills / Tech Stack -->
 ## 🛠️ Languages & Tools
@@ -57,8 +56,14 @@ I'm a dedicated developer with a passion for crafting clean, efficient, and user
 <!-- Connect with Me -->
 ## 🤝 Connect with Me
 <p align="center">
-  <a href="https://www.linkedin.com/in/your-linkedin-profile/" target="_blank"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/> </a>
-  <a href="https://twitter.com/your-twitter-handle" target="_blank"> <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/> </a>
+  <a href="https://www.linkedin.com/in/muhammadsufyanjura47/" target="_blank"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/> </a>
+  <a href="https://github.com/MuhammadSufyanJura47" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/> </a>
+    <a href="mailto:sufyanjura47@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/> </a>
+  <a href="https://muhammadsufyanjura.tech/" target="_blank">
+    <img src="https://img.shields.io/badge/Visit_My_Portfolio-6c63ff?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/>
+  </a>
   <!-- Add other social links as needed -->
 </p>
 
