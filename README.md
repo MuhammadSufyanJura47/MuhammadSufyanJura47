@@ -89,14 +89,14 @@
 <!-- GitHub Stats -->
 <div style="background: rgba(255, 255, 255, 0.03); backdrop-filter: blur(16px); border: 1px solid rgba(255, 255, 255, 0.08); border-radius: 24px; padding: 35px; margin: 25px 0;">
   
- 
-
-  <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=MuhammadSufyanJura47&show_icons=true&theme=tokyonight&hide_border=true&bg_color=ffffff10&title_color=6C63FF&icon_color=6C63FF&text_color=a0a0b0" alt="GitHub Stats" width="48%" />
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=MuhammadSufyanJura47&theme=tokyonight&hide_border=true&background=ffffff10&stroke=6C63FF&ring=6C63FF&fire=6C63FF&currStreakLabel=6C63FF" alt="GitHub Streak" width="48%" />
-  </p>
+  <h2 align="center">
+    <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif?cid=ecf05e47qh9t0pxqkn9pknnykfn0rda0usqmt4xfhs45mpiy&ep=v1_gifs_search&rid=giphy.gif&ct=g" width="28px">
+    GitHub Analytics
+  </h2>
 
   
+
+ 
 
 </div>
 
